@@ -20,11 +20,11 @@ The case study focuses on the experiences of a student named Arjun and explores
 important topics related to responsible digital behavior.
 
 ## Topics Covered
-- Digital identity and ethics
-- Online collaboration and responsibility
-- Cyber awareness and phishing risks
-- Communication and digital etiquette
-- Reflection on digital literacy
+Digital identity and ethics
+Online collaboration and responsibility
+Cyber awareness and phishing risks
+Communication and digital etiquette
+Reflection on digital literacy
 
 ## File Included
 CaseStudy_ManishBurdak_25BCY10222.pdf
